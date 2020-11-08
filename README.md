@@ -1,6 +1,9 @@
 This is for experimenting with GUI building in linux using different libraries
 
-
+git add -A
+git status
+git commit -m "new updates"
+git push -f origin master
 
 …or create a new repository on the command line
 echo "# linux_gui_experiments" >> README.md
