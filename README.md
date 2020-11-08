@@ -1,3 +1,7 @@
+This is for experimenting with GUI building in linux using different libraries
+
+
+
 …or create a new repository on the command line
 echo "# linux_gui_experiments" >> README.md
 git init
